@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Hyderabad India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on SafientIo, Tekishub, SmartLabs<br>👯 I’m looking to collaborate on Smart Contracts<br>🌱 I’m currently learning Solidity<br>
+🔭 I’m currently working on StackOS, an open protocol that connects decentralized applications to compute infrastructure. 🌱 Passionate about cloud computing and blockchain technology, striving to make the internet truly decentralized. Here is the company website I work at: StackOS.
 
 
 ## 🌐 Socials:
