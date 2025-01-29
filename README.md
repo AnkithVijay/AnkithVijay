@@ -1,13 +1,20 @@
 <div align="center">
   
-# 👨‍💻 Vijay Ankith
+# ��‍💻 Vijay Ankith
 
-<a href="https://twitter.com/@VijayAnkit1993">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://visitcount.itsvg.in/api?id=AnkithVijay">
-  <img src="https://visitcount.itsvg.in/api?id=AnkithVijay&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  <a href="https://x.com/@VijayAnkit1993">
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=AnkithVijay&style=flat-square&color=blue">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=AnkithVijay&style=flat-square&color=blue">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AnkithVijay&style=flat-square&color=blue">
+</picture>
 
 ### Pioneering the Future of Decentralized Computing
 
@@ -46,13 +53,19 @@ Infrastructure:
 
 <div align="center">
 
-<a href="https://github.com/AnkithVijay">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkithVijay&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Odyssey" alt="GitHub Stats"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnkithVijay&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Odyssey">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AnkithVijay&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Odyssey">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnkithVijay&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Odyssey">
+</picture>
 
-<a href="https://github.com/AnkithVijay">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithVijay&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</a>
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AnkithVijay&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AnkithVijay&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithVijay&theme=dark&hide_border=true">
+</picture>
 
 </div>
 
@@ -60,9 +73,11 @@ Infrastructure:
 
 <div align="center">
 
-<a href="https://github.com/AnkithVijay">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkithVijay&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AnkithVijay&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AnkithVijay&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=AnkithVijay&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4">
+</picture>
 
 </div>
 
@@ -70,7 +85,11 @@ Infrastructure:
 
 ### 💭 Thought of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</picture>
 
 ---
 *"Building the impossible, one commit at a time."*
