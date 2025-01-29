@@ -2,19 +2,8 @@
   
 # 👨‍💻 Vijay Ankith
 
-<a href="https://x.com/@VijayAnkit1993">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </picture>
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=AnkithVijay&style=flat-square&color=blue">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=AnkithVijay&style=flat-square&color=blue">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AnkithVijay&style=flat-square&color=blue">
-</picture>
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@VijayAnkit1993)
+![](https://komarev.com/ghpvc/?username=AnkithVijay&style=for-the-badge&color=0e75b6)
 
 ### Pioneering the Future of Decentralized Computing
 
