@@ -2,7 +2,7 @@
   
 # 👨‍💻 Vijay Ankith
 
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@VijayAnkit1993)
+[![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=x)](https://x.com/@VijayAnkit1993)
 ![](https://komarev.com/ghpvc/?username=AnkithVijay&style=for-the-badge&color=0e75b6)
 
 ### Pioneering the Future of Decentralized Computing
