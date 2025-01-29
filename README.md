@@ -1,14 +1,14 @@
 <div align="center">
   
-# ��‍💻 Vijay Ankith
+# 👨‍💻 Vijay Ankith
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  <a href="https://x.com/@VijayAnkit1993">
+<a href="https://x.com/@VijayAnkit1993">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-</picture>
+  </picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=AnkithVijay&style=flat-square&color=blue">
